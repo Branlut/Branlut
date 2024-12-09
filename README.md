@@ -19,9 +19,11 @@
 * Preparado para analizar datos e identificar o proponer mejoras
       
  </div>
+ <div id="header" align="left">
+ Lenguajes y herramientas:
+ </div>
 <div id="header" align="left">
-Lenguajes y herramientas:
-  
+
 <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
   </a>
 <img decoding="async" src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
