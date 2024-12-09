@@ -22,8 +22,7 @@
  <div id="header" align="left">
  Lenguajes y herramientas:
  </div>
-  <div id="header" align="left">
- </div>
+
 <div id="header" align="left">
   </a>
 <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
@@ -39,8 +38,7 @@
  <div id="header" align="left">
  Mis estadísticas:
  </div>
- <div id="header" align="left">
- </div>
+
  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Branlut&theme=dark&background=000000)](https://git.io/streak-stats)
 
