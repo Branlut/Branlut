@@ -33,6 +33,8 @@
   </a>
 <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
   </a>
+  <img decoding="async" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="tableau"/>
+  </a>
 
 </div>
  <div id="header" align="left">
