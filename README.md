@@ -11,6 +11,7 @@
 
  <div id="header" align="left">
  Sobre mí : 
+   
 * Apasionado por la tecnologia y por seguir aprendiendo mas
    
 * En busca de nuevas oportunidades para aplicar mis conocimientos
