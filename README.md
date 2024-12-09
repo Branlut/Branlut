@@ -8,3 +8,13 @@
   Hola soy Brayan. ¡Un gusto conocerte!
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+ <div id="header" align="left">
+ Sobre mí : 
+   Apasionado por la tecnologia y por seguir aprendiendo mas
+   En busca de nuevas oportunidades para aplicar mis conocimientos
+   Preparado para analizar datos e identificar o proponer mejoras
+   
+
+   
+ </div>
